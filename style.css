@@ -1,0 +1,36 @@
+body{
+    width: 100%;
+}
+.text-blue{
+    color: blue;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-orange{
+    background-color: orange;
+}
+h1{
+    text-align: center;
+}
+.container{
+    margin: auto;
+    width: 60%;
+    height: auto;
+}
+.float-left{
+    width: 50%;
+    float: left;
+}
+.float-right{
+    width: 50%;
+    float: left;
+    text-align: end;
+}
+
+table{
+    width: 100%;
+}
+table th, table td{
+    padding: 5px 20px;
+}
